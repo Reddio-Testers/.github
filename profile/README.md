@@ -3,9 +3,9 @@
 * [RUS](#rus)
 
 ## Crypto wallets | Крипто-кошельки
-0x677549b4AEcc660252a77a8EF3C6A7e3d6970A97 (ETH|BNB)
-BAhuqKKfe9vjQyyy7sn6knKmjzmcZQDaKBxLk4BCCF9J (SOL)
-UQCKUgwlDCMDHV6h-1CDwTIWiVxxtffzTypsdtHXHbTq15Mj (TON)
+- 0x677549b4AEcc660252a77a8EF3C6A7e3d6970A97 (ETH|BNB)
+- BAhuqKKfe9vjQyyy7sn6knKmjzmcZQDaKBxLk4BCCF9J (SOL)
+- UQCKUgwlDCMDHV6h-1CDwTIWiVxxtffzTypsdtHXHbTq15Mj (TON)
 
 <a id="eng"></a>
 # Reddio Testers
