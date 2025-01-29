@@ -2,7 +2,7 @@
 * [ENG](#eng)
 * [RUS](#rus)
 
-<a id="eng" />
+<a id="eng"></a>
 # Reddio Testers
 We are a small team of testers on Reddio's L2 Ethereum network, we are looking for technical bugs in the hope that they will be fixed.
 
@@ -23,8 +23,9 @@ This project will be conducted in 3 phases:
 
 At the end of this test cycle, we will compile a detailed report for Reddio network developers and post it as a public PDF file.
 
-<a id="rus" />
+<a id="rus"></a>
 # Reddio Тестеры
+
 Мы небольшая команда тестировщиков L2 Ethereum сети Reddio, мы ищем технические баги, в надежде, что их исправят.
 
 ## Следить за нами
